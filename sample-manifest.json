@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7cedcb36-01cd-4905-9d38-6ba7795feecb",
+  "export_job_id": "3f7d5fb0-bfdf-4979-90f6-9057a407c356",
   "id_short": 589340,
-  "published_at": "2026-04-13T19:40:41Z",
+  "published_at": "2026-04-19T19:38:23Z",
   "repo_name": "all-restaurants-in-atlantic-city-hammonton-metro-new-jersey-us-sample-589340",
   "sample_asset_name": "beamstation_589340_restaurants-us-atlanticcityhammontonnj_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/589340/beamstation_589340_restaurants-us-atlanticcityhammontonnj_SAMPLE_DIST.csv",
-  "sample_records": 167,
-  "sample_sha256": "d5f99c35abd5c2dfd0c65081a6d53713fe092d5af10d28ba8853076e5e80d34d",
-  "sample_size_bytes": 578342,
-  "total_records": 1676
+  "sample_records": 165,
+  "sample_sha256": "39db850961ed6c8e79f9e8370f9bcef6d823ff06ff8c4f1ca601e5c2e06443df",
+  "sample_size_bytes": 569427,
+  "total_records": 1653
 }
