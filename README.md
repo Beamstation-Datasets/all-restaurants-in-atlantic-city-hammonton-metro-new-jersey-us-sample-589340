@@ -1,6 +1,6 @@
 # All Restaurants in Atlantic City-Hammonton (Metro), New Jersey, US
 
-> Free BeamStation sample export with 165 rows and masked direct-contact fields.
+> Free BeamStation sample export with 154 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `589340` |
 | Location | Atlantic City-Hammonton, NJ |
 | Category | Restaurants |
-| Full dataset size | 1,653 records |
-| Free sample size | 165 records (9.98%) |
-| Last export | 2026-04-16T19:24:50.557237+00:00 |
+| Full dataset size | 1,543 records |
+| Free sample size | 154 records (9.98%) |
+| Last export | 2026-04-23T15:05:16.285783+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-atlantic-city-hammonton-metro-new-jersey-us-sample-589340/releases/download/sample-latest/beamstation_589340_restaurants-us-atlanticcityhammontonnj_SAMPLE_DIST.csv) |
 
 ## What is in this sample
